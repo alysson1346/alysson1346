@@ -59,7 +59,7 @@
   <img align="center" src="https://img.shields.io/badge/Alysson%20Colombo-100000?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
  
-<a href="https://instagram.com/rich_dacan" target="_blank"  rel="external" >
+<a href="https://www.instagram.com/alysson_colombo/" target="_blank"  rel="external" >
  <img align="center" src="https://img.shields.io/badge/-Alysson_Colombo-100000?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a> 
  
