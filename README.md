@@ -40,7 +40,7 @@
 
 
 <p align="left">
-<img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api?username=alysson1346&show_icons=true&theme=vision-friendly-dark" alt="Rich-Dacan's stats"/>
+<img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api?username=alysson1346&show_icons=true&theme=vision-friendly-dark" alt="Alysson stats"/>
  
  <img margin-top="auto" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alysson1346&theme=vision-friendly-dark" alt="alysson-stats"/>
 </p>
